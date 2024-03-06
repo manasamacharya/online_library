@@ -1,0 +1,3 @@
+book details such as published
+date of book issue
+reg no of student
